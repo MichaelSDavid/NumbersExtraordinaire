@@ -1,4 +1,4 @@
-public class ConsecutiveSeriesMichaelDavid {
+public class ConsecutiveSeries {
     public static void main(String[] args) {
         int start = 1;
 

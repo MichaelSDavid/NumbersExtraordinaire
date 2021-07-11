@@ -1,4 +1,4 @@
-public class NumbersApplicationMichaelDavid {
+public class NumbersApplication {
     // Helper method to check if a number is prime
     public static boolean checkPrime(int n) {
         for (int i = 2; i < n/2; i++) {
